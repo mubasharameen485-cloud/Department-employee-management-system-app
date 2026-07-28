@@ -1,4 +1,4 @@
-#Relation(1-n)practice:
+# Relation(1-n)practice:
 in this i make a compnay management system web app in mern stack for practice 
 clone and than set .env
 ### .env
